@@ -1,0 +1,138 @@
+[INFO ] 2022-05-25 14:07:29.324 [main] Log4j2 - Informational
+[WARN ] 2022-05-25 14:07:29.328 [main] Log4j2 - warning
+[FATAL] 2022-05-25 14:07:29.329 [main] Log4j2 - fatal
+[INFO ] 2022-05-25 14:12:52.732 [main] Log4j2 - Initializing Browser
+[INFO ] 2022-05-25 14:12:55.246 [main] Log4j2 - Launching Browser
+[INFO ] 2022-05-25 14:12:55.303 [main] Log4j2 - Hard assert
+[INFO ] 2022-05-25 14:12:55.334 [main] Log4j2 - Soft assert
+[INFO ] 2022-05-26 00:14:52.533 [main] Log4j2 - Initializing Browser
+[INFO ] 2022-05-26 00:21:59.541 [main] Log4j2 - Initializing Browser
+[INFO ] 2022-05-26 00:30:18.362 [main] Log4j2 - Initializing Browser
+[INFO ] 2022-05-26 00:30:19.994 [main] Log4j2 - Launching Browser
+[INFO ] 2022-05-26 00:30:20.056 [main] Log4j2 - Hard assert
+[INFO ] 2022-05-26 00:30:20.090 [main] Log4j2 - Soft assert
+[INFO ] 2022-05-27 00:04:48.538 [main] Log4j2 - Initializing Browser
+[INFO ] 2022-05-27 00:11:03.209 [main] Log4j2 - Initializing Browser
+[INFO ] 2022-05-27 00:11:07.517 [main] Log4j2 - Launching Browser
+[INFO ] 2022-05-27 00:11:07.614 [main] Log4j2 - Hard assert
+[INFO ] 2022-05-27 00:11:07.681 [main] Log4j2 - Soft assert
+[INFO ] 2022-05-27 00:12:52.067 [main] Log4j2 - Initializing Browser
+[INFO ] 2022-05-27 00:12:56.987 [main] Log4j2 - Launching Browser
+[INFO ] 2022-05-27 00:12:57.069 [main] Log4j2 - Hard assert
+[INFO ] 2022-05-27 00:12:57.126 [main] Log4j2 - Soft assert
+[INFO ] 2022-05-31 17:04:07.690 [main] Log4j2 - Initializing Browser
+[INFO ] 2022-05-31 17:04:11.228 [main] Log4j2 - Launching Browser
+[INFO ] 2022-05-31 17:04:11.295 [main] Log4j2 - Hard assert
+[INFO ] 2022-05-31 17:04:11.334 [main] Log4j2 - Soft assert
+[INFO ] 2022-05-31 17:05:04.901 [main] Log4j2 - Initializing Browser
+[INFO ] 2022-05-31 17:05:05.950 [main] Log4j2 - Launching Browser
+[INFO ] 2022-05-31 17:05:06.001 [main] Log4j2 - Hard assert
+[INFO ] 2022-05-31 17:05:06.034 [main] Log4j2 - Soft assert
+[INFO ] 2022-05-31 17:05:36.382 [main] Log4j2 - Initializing Browser
+[INFO ] 2022-05-31 17:05:37.558 [main] Log4j2 - Launching Browser
+[INFO ] 2022-05-31 17:05:37.607 [main] Log4j2 - Hard assert
+[INFO ] 2022-05-31 17:05:37.641 [main] Log4j2 - Soft assert
+[INFO ] 2022-05-31 17:06:37.576 [main] Log4j2 - Initializing Browser
+[INFO ] 2022-05-31 17:07:26.911 [main] Log4j2 - Initializing Browser
+[INFO ] 2022-05-31 17:07:28.203 [main] Log4j2 - Launching Browser
+[INFO ] 2022-05-31 17:07:28.269 [main] Log4j2 - Hard assert
+[INFO ] 2022-05-31 17:07:28.303 [main] Log4j2 - Soft assert
+[INFO ] 2022-05-31 17:22:33.507 [main] Log4j2 - Initializing Browser
+[INFO ] 2022-05-31 17:22:34.827 [main] Log4j2 - Launching Browser
+[INFO ] 2022-05-31 17:22:34.875 [main] Log4j2 - Hard assert
+[INFO ] 2022-05-31 17:22:34.910 [main] Log4j2 - Soft assert
+[INFO ] 2022-05-31 17:24:40.608 [main] Log4j2 - Initializing Browser
+[INFO ] 2022-05-31 17:24:41.911 [main] Log4j2 - Launching Browser
+[INFO ] 2022-05-31 17:24:41.957 [main] Log4j2 - Hard assert
+[INFO ] 2022-05-31 17:24:41.989 [main] Log4j2 - Soft assert
+[INFO ] 2022-05-31 17:26:42.867 [main] Log4j2 - Initializing Browser
+[INFO ] 2022-05-31 17:26:44.183 [main] Log4j2 - Launching Browser
+[INFO ] 2022-05-31 17:26:44.232 [main] Log4j2 - Hard assert
+[INFO ] 2022-05-31 17:26:44.267 [main] Log4j2 - Soft assert
+[INFO ] 2022-05-31 17:27:59.642 [main] Log4j2 - Initializing Browser
+[INFO ] 2022-05-31 17:28:01.137 [main] Log4j2 - Launching Browser
+[INFO ] 2022-05-31 17:28:01.192 [main] Log4j2 - Hard assert
+[INFO ] 2022-05-31 17:28:01.227 [main] Log4j2 - Soft assert
+[INFO ] 2022-05-31 17:29:28.521 [main] Log4j2 - Initializing Browser
+[INFO ] 2022-05-31 17:29:29.849 [main] Log4j2 - Hard assert
+[INFO ] 2022-05-31 17:29:29.881 [main] Log4j2 - Soft assert
+[INFO ] 2022-05-31 17:30:07.832 [main] Log4j2 - Initializing Browser
+[INFO ] 2022-05-31 17:30:09.125 [main] Log4j2 - Launching Browser
+[INFO ] 2022-05-31 17:30:09.171 [main] Log4j2 - Hard assert
+[INFO ] 2022-05-31 17:30:09.202 [main] Log4j2 - Soft assert
+[INFO ] 2022-05-31 17:39:43.099 [main] Log4j2 - Initializing Browser
+[INFO ] 2022-05-31 17:39:45.973 [main] Log4j2 - Launching Browser
+[INFO ] 2022-05-31 17:41:58.454 [main] Log4j2 - Initializing Browser
+[INFO ] 2022-05-31 17:41:59.782 [main] Log4j2 - Launching Browser
+[INFO ] 2022-05-31 17:41:59.817 [main] Log4j2 - Hard assert
+[INFO ] 2022-05-31 17:41:59.850 [main] Log4j2 - Soft assert
+[INFO ] 2022-05-31 17:54:34.537 [main] Log4j2 - Initializing Browser
+[INFO ] 2022-05-31 17:54:35.773 [main] Log4j2 - Launching Browser
+[INFO ] 2022-05-31 17:54:35.880 [main] Log4j2 - Hard assert
+[INFO ] 2022-05-31 17:54:35.918 [main] Log4j2 - Soft assert
+[INFO ] 2022-05-31 17:55:30.248 [main] Log4j2 - Initializing Browser
+[INFO ] 2022-05-31 17:55:31.614 [main] Log4j2 - Launching Browser
+[INFO ] 2022-05-31 17:55:31.742 [main] Log4j2 - Hard assert
+[INFO ] 2022-05-31 17:55:31.777 [main] Log4j2 - Soft assert
+[INFO ] 2022-05-31 18:17:57.784 [main] Log4j2 - Initializing Browser
+[INFO ] 2022-05-31 18:17:59.053 [main] Log4j2 - Launching Browser
+[INFO ] 2022-05-31 18:17:59.184 [main] Log4j2 - Hard assert
+[INFO ] 2022-05-31 18:17:59.214 [main] Log4j2 - Soft assert
+[INFO ] 2022-05-31 18:56:27.731 [main] Log4j2 - Initializing Browser
+[INFO ] 2022-05-31 18:56:29.005 [main] Log4j2 - Launching Browser
+[INFO ] 2022-05-31 18:56:29.135 [main] Log4j2 - Hard assert
+[INFO ] 2022-05-31 18:56:29.170 [main] Log4j2 - Soft assert
+[INFO ] 2022-05-31 19:06:47.454 [main] Log4j2 - Initializing Browser
+[INFO ] 2022-05-31 19:06:48.756 [main] Log4j2 - Launching Browser
+[INFO ] 2022-05-31 19:06:48.879 [main] Log4j2 - Hard assert
+[INFO ] 2022-05-31 19:06:48.911 [main] Log4j2 - Soft assert
+[INFO ] 2022-05-31 19:09:11.880 [main] Log4j2 - Initializing Browser
+[INFO ] 2022-05-31 19:09:13.278 [main] Log4j2 - Launching Browser
+[INFO ] 2022-05-31 19:09:13.418 [main] Log4j2 - Hard assert
+[INFO ] 2022-05-31 19:09:13.449 [main] Log4j2 - Soft assert
+[INFO ] 2022-05-31 19:11:09.347 [main] Log4j2 - Initializing Browser
+[INFO ] 2022-05-31 19:11:10.564 [main] Log4j2 - Launching Browser
+[INFO ] 2022-05-31 19:11:10.694 [main] Log4j2 - Hard assert
+[INFO ] 2022-05-31 19:11:10.724 [main] Log4j2 - Soft assert
+[INFO ] 2022-05-31 19:14:43.311 [main] Log4j2 - Initializing Browser
+[INFO ] 2022-05-31 19:14:44.526 [main] Log4j2 - Launching Browser
+[INFO ] 2022-05-31 19:14:44.655 [main] Log4j2 - Hard assert
+[INFO ] 2022-05-31 19:14:44.722 [main] Log4j2 - Soft assert
+[INFO ] 2022-05-31 19:17:58.909 [main] Log4j2 - Initializing Browser
+[INFO ] 2022-05-31 19:18:00.143 [main] Log4j2 - Launching Browser
+[INFO ] 2022-05-31 19:18:00.282 [main] Log4j2 - Hard assert
+[INFO ] 2022-05-31 19:18:00.343 [main] Log4j2 - Hard assert using FindBy Annotation
+[INFO ] 2022-05-31 19:18:00.385 [main] Log4j2 - Soft assert
+[INFO ] 2022-05-31 19:20:01.555 [main] Log4j2 - Initializing Browser
+[INFO ] 2022-05-31 19:20:02.856 [main] Log4j2 - Launching Browser
+[INFO ] 2022-05-31 19:20:02.983 [main] Log4j2 - Hard assert using By Annotattion
+[INFO ] 2022-05-31 19:20:03.028 [main] Log4j2 - Hard assert using FindBy Annotation
+[INFO ] 2022-05-31 19:20:03.059 [main] Log4j2 - Soft assert
+[INFO ] 2022-05-31 19:37:24.490 [main] Log4j2 - Initializing Browser
+[INFO ] 2022-05-31 19:37:26.340 [main] Log4j2 - Launching Browser
+[INFO ] 2022-05-31 19:37:26.471 [main] Log4j2 - Hard assert using By Annotattion
+[INFO ] 2022-05-31 19:37:26.517 [main] Log4j2 - Hard assert using Find By Annotattion
+[INFO ] 2022-05-31 19:37:26.550 [main] Log4j2 - Soft assert
+[INFO ] 2022-05-31 19:39:20.415 [main] Log4j2 - Initializing Browser
+[INFO ] 2022-05-31 19:39:21.682 [main] Log4j2 - Launching Browser
+[INFO ] 2022-05-31 19:39:21.811 [main] Log4j2 - Hard assert using By Annotattion
+[INFO ] 2022-05-31 19:39:21.857 [main] Log4j2 - Hard assert using Find By Annotattion
+[INFO ] 2022-05-31 19:39:21.892 [main] Log4j2 - Soft assert
+[INFO ] 2022-06-09 18:46:19.381 [main] Log4j2 - Initializing Browser
+[INFO ] 2022-06-09 18:46:20.852 [main] Log4j2 - Launching Browser
+[INFO ] 2022-06-09 18:46:21.037 [main] Log4j2 - Hard assert using By Annotattion
+[INFO ] 2022-06-09 18:46:21.084 [main] Log4j2 - Hard assert using Find By Annotattion
+[INFO ] 2022-06-09 18:46:21.134 [main] Log4j2 - Soft assert
+[INFO ] 2022-06-09 18:46:21.372 [main] Log4j2 - Closing Browser
+[INFO ] 2022-06-13 00:10:16.652 [main] Log4j2 - Initializing Browser
+[INFO ] 2022-06-13 00:10:17.965 [main] Log4j2 - Launching Browser
+[INFO ] 2022-06-13 00:10:18.135 [main] Log4j2 - Hard assert using By Annotattion
+[INFO ] 2022-06-13 00:10:18.218 [main] Log4j2 - Hard assert using Find By Annotattion
+[INFO ] 2022-06-13 00:10:18.270 [main] Log4j2 - Soft assert
+[INFO ] 2022-06-13 00:10:18.600 [main] Log4j2 - Closing Browser
+[INFO ] 2022-06-13 15:26:04.173 [main] Log4j2 - Initializing Browser
+[INFO ] 2022-06-13 15:26:05.413 [main] Log4j2 - Launching Browser
+[INFO ] 2022-06-13 15:26:05.587 [main] Log4j2 - Hard assert using By Annotattion
+[INFO ] 2022-06-13 15:26:05.667 [main] Log4j2 - Hard assert using Find By Annotattion
+[INFO ] 2022-06-13 15:26:05.706 [main] Log4j2 - Soft assert
+[INFO ] 2022-06-13 15:26:06.010 [main] Log4j2 - Closing Browser

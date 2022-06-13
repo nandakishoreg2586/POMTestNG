@@ -1,0 +1,24 @@
+<input type="text" id="twotabsearchtextbox" value="" name="field-keywords" autocomplete="off" placeholder="" 
+class="nav-input nav-progressive-attribute" dir="auto" tabindex="0" aria-label="Search">
+
+
+//input[@id='twotabsearchtextbox']
+
+//*[@name='field-keywords']
+
+//*[contains(@name,'field-keywords')]
+
+//div[@id='nav-xshop']//*[contains(text(),'Best Sellers')]		//*[contains(text(),'Best Sellers')]
+
+//input[@id='twotabsearchtextbox' or @name='field-keywords']
+
+//input[@id='twotabsearchtextbox' and @name='field-keywords']
+
+//*[@id='nav-xshop']//*[text()='Best Sellers']			//*[text()='Best Sellers']
+
+//*[starts-with(@name,'field')]
+
+[starts-with(@name,'field')]
+[contains(@name,'field-keywords')]
+[contains(text(),'Best Sellers')]	 
+[text()='Best Sellers']
