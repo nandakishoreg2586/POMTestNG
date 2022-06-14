@@ -42,6 +42,9 @@
   
   
   </dependencies>
+ 
+   <!-- plugin details for jenkins form Merge1 branch -->
+  
   
   <build>
   <plugins>
