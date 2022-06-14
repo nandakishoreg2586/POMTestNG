@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" ignored="1" total="3" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="293" started-at="2022-06-14T15:52:55 IST" finished-at="2022-06-14T15:52:55 IST">
+  <suite name="Suite" duration-ms="295" started-at="2022-06-14T19:05:37 IST" finished-at="2022-06-14T19:05:37 IST">
     <groups>
     </groups>
-    <test name="Test" duration-ms="293" started-at="2022-06-14T15:52:55 IST" finished-at="2022-06-14T15:52:55 IST">
+    <test name="Test" duration-ms="295" started-at="2022-06-14T19:05:37 IST" finished-at="2022-06-14T19:05:37 IST">
       <class name="testScripts.TestScript">
-        <test-method status="PASS" signature="InitializeBrowser()[pri:0, instance:testScripts.TestScript@57d7f8ca]" name="InitializeBrowser" is-config="true" duration-ms="9201" started-at="2022-06-14T15:52:46 IST" finished-at="2022-06-14T15:52:55 IST">
+        <test-method status="PASS" signature="InitializeBrowser()[pri:0, instance:testScripts.TestScript@57d7f8ca]" name="InitializeBrowser" is-config="true" duration-ms="8783" started-at="2022-06-14T19:05:28 IST" finished-at="2022-06-14T19:05:37 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- InitializeBrowser -->
-        <test-method status="PASS" signature="hardassertPage_By()[pri:1, instance:testScripts.TestScript@57d7f8ca]" name="hardassertPage_By" duration-ms="210" started-at="2022-06-14T15:52:55 IST" finished-at="2022-06-14T15:52:55 IST">
+        <test-method status="PASS" signature="hardassertPage_By()[pri:1, instance:testScripts.TestScript@57d7f8ca]" name="hardassertPage_By" duration-ms="208" started-at="2022-06-14T19:05:37 IST" finished-at="2022-06-14T19:05:37 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- hardassertPage_By -->
-        <test-method status="PASS" signature="softassertPage()[pri:2, instance:testScripts.TestScript@57d7f8ca]" name="softassertPage" duration-ms="42" started-at="2022-06-14T15:52:55 IST" finished-at="2022-06-14T15:52:55 IST">
+        <test-method status="PASS" signature="softassertPage()[pri:2, instance:testScripts.TestScript@57d7f8ca]" name="softassertPage" duration-ms="37" started-at="2022-06-14T19:05:37 IST" finished-at="2022-06-14T19:05:37 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- softassertPage -->
-        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:testScripts.TestScript@57d7f8ca]" name="closeBrowser" is-config="true" duration-ms="4213" started-at="2022-06-14T15:52:55 IST" finished-at="2022-06-14T15:53:00 IST">
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:testScripts.TestScript@57d7f8ca]" name="closeBrowser" is-config="true" duration-ms="4267" started-at="2022-06-14T19:05:37 IST" finished-at="2022-06-14T19:05:41 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
