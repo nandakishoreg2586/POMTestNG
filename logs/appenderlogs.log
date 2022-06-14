@@ -157,3 +157,9 @@
 [INFO ] 2022-06-14 01:52:37.354 [main] Log4j2 - Initializing Browser
 [INFO ] 2022-06-14 01:52:38.689 [main] Log4j2 - Launching Browser
 [INFO ] 2022-06-14 01:52:39.221 [main] Log4j2 - Closing Browser
+[INFO ] 2022-06-14 15:52:54.253 [main] Log4j2 - Initializing Browser
+[INFO ] 2022-06-14 15:52:55.615 [main] Log4j2 - Launching Browser
+[INFO ] 2022-06-14 15:52:55.816 [main] Log4j2 - Hard assert using By Annotattion
+[INFO ] 2022-06-14 15:52:55.861 [main] Log4j2 - Hard assert using Find By Annotattion
+[INFO ] 2022-06-14 15:52:55.908 [main] Log4j2 - Soft assert
+[INFO ] 2022-06-14 15:53:00.139 [main] Log4j2 - Closing Browser
